@@ -42,7 +42,7 @@ log-anomaly-detection/
 - Confusion Matrix
 
 ## Pipeline Diagram
-
+![Pipline Diagram](PiplineDiagram.png)
 ┌──────────────┐        ┌───────────────────────────┐
 │ Raw Logs     │──────▶│ Preprocessing + Feature    │
 │ (.log / CSV) │        │ Selection (CFS, RFE)      │
