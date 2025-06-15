@@ -3,6 +3,7 @@
 This project demonstrates a simple pipeline for detecting Denial-of-Service (DoS) attacks using a combination of clustering and classification techniques applied to simulated network log data.
 
 ## 📂 Structure
+[Structure](Structure.png)
 
 log-anomaly-detection/
 ├── data/
