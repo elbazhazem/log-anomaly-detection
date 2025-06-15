@@ -8,7 +8,8 @@ log-anomaly-detection/
 ├── data/
 │ └── log_sample.csv # Sample log dataset (1000 records)
 ├── notebooks/
-│ └── log_anomaly_detection_notebook.ipynb # Full end-to-end experiment
+│ └── log_anomaly_detection_notebook.ipynb 
+| └── log_anomaly_detection_v2_SMOTE.ipynb # Full end-to-end experiment
 ├── models/ # (Optional) Save trained models
 ├── results/ # (Optional) Save evaluation outputs
 └── README.md
