@@ -15,7 +15,7 @@ This notebook demonstrates a full machine learning workflow for binary classific
  8. Performing cross-validation to assess model generalization.
 
 ## 📂 Structure
-![Structure](Structure.png)
+<!-- ![Structure](Structure.png) -->
 
 log-anomaly-detection/
 ├── data/
