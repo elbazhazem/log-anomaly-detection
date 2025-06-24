@@ -1,6 +1,3 @@
-### 📘 `README.md`
-
-````markdown
 # 🔐 Anomalous Network Traffic Detection using XGBoost + SMOTE
 
 This project demonstrates a robust machine learning pipeline for detecting DoS (Denial-of-Service) attack patterns in IoT network traffic using the **IoTID20-Extended (2024)** dataset. The core model is based on **XGBoost**, with a focus on handling class imbalance via **SMOTE**, and evaluating performance through **Stratified 10-Fold Cross-Validation**.
