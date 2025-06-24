@@ -21,10 +21,9 @@ log-anomaly-detection/
 ├── data/
 │ └── log_sample.csv # Sample log dataset (1000 records)
 ├── notebooks/
-│ └── log_anomaly_detection_notebook.ipynb 
-| └── log_anomaly_detection_v2_SMOTE.ipynb # Full end-to-end experiment
-├── models/ # (Optional) Save trained models
-├── results/ # (Optional) Save evaluation outputs
+| └── hazem-code.ipynb                     # Ver 03 final run notebook
+│ └── log_anomaly_detection_notebook.ipynb # Ver 01
+| └── log_anomaly_detection_v2_SMOTE.ipynb # Ver 02
 └── README.md
 
 
