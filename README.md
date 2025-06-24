@@ -39,7 +39,7 @@ This project demonstrates a robust machine learning pipeline for detecting DoS (
 
 - **F1-Score (mean across folds):** ~1.00
 - **ROC-AUC:** 1.00
-- **Accuracy:** 100%
+- **Accuracy:** 99%
 - **Model Stability:** Proven through low variance across folds
 
 > Note: These high scores are consistent with the quality and balance of the IoTID20-Extended dataset post-SMOTE. Performance may vary with real-world noisy data.
