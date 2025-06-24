@@ -67,6 +67,7 @@ pip install -r requirements.txt
 
 ```
 ├── notebooks/
+│   └── old versions/
 │   └── log_anomaly_detection_iotid20_extended_notebook_v4.ipynb       # Main notebook: full pipeline
 ├── data/
 │   └── IoT-Network-Intrusion-Dataset.csv  # Raw data (external)
