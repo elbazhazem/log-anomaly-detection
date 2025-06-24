@@ -2,6 +2,18 @@
 
 This project demonstrates a simple pipeline for detecting Denial-of-Service (DoS) attacks using a combination of clustering and classification techniques applied to simulated network log data.
 
+This notebook demonstrates a full machine learning workflow for binary classification using the IoT Network Intrusion Dataset.
+
+## Steps include:
+ 1. Importing necessary libraries and modules for data manipulation, preprocessing, modeling, and evaluation.
+ 2. Loading and cleaning the dataset, handling missing and infinite values.
+ 3. Separating features (X) and target (y), and identifying categorical and numerical columns.
+ 4. Building a preprocessing pipeline using ColumnTransformer for scaling and encoding.
+ 5. Splitting the data into training and testing sets.
+ 6. Creating a pipeline that includes preprocessing, SMOTE for balancing, feature selection, and XGBoost classifier.
+ 7. Training the model and evaluating its performance using classification metrics, ROC-AUC, and visualizations.
+ 8. Performing cross-validation to assess model generalization.
+
 ## 📂 Structure
 ![Structure](Structure.png)
 
